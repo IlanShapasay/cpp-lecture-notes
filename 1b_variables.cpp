@@ -25,7 +25,7 @@ int main(void) {
 
 	cout << "a = " << a <<endl;
 	cout << "b = " << b << endl;
-  cout << "a-b = " << c << endl;
+ 	cout << "a-b = " << c << endl;
 	cout << endl;
 
 	// A more complicated output chaining to make the 
